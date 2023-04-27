@@ -1,0 +1,55 @@
+{
+	"propositions": [
+		{
+			"uuid": "68a2a18a-4dc5-11eb-ae93-0242ac130002",
+			"items": [
+				{
+					"text": "Comment allez-vous monsieur ?",
+					"answer_uuid": "e7cb5b6a-4dc4-11eb-ae93-0242ac130002"
+				},
+				{
+					"text": "Bonjour. Comment vous appellez-vous ?",
+					"answer_uuid": "fcfc1104-4dc5-11eb-ae93-0242ac130002"
+				}
+			]
+		},
+		{
+			"uuid": "652a2400-4dc6-11eb-ae93-0242ac130002",
+			"items": [
+				{
+					"text": "Parfait. Suivez-moi, je vous emmène voir le docteur.",
+					"answer_uuid": ""
+				},
+				{
+					"text": "Pourtant. On m'a dit de venir vous voir car vous n'alliez pas bien...",
+					"answer_uuid": ""
+				}
+			]
+		},
+		{
+			"uuid": "955b0950-4dc6-11eb-ae93-0242ac130002",
+			"items": [
+				{
+					"text": "Enchanté Marc, je m'appelle Tristan. Suivez-moi je vous prie.",
+					"answer_uuid": ""
+				},
+				{
+					"text": "Marc ?! Pourtant, il est noté Matthieu sur votre dossier.",
+					"answer_uuid": ""
+				}
+			]
+		}
+	],
+	"answers": [
+		{
+			"uuid": "e7cb5b6a-4dc4-11eb-ae93-0242ac130002",
+			"text": "Je vais bien.",
+			"proposition_uuid": "652a2400-4dc6-11eb-ae93-0242ac130002"
+		},
+		{
+			"uuid": "fcfc1104-4dc5-11eb-ae93-0242ac130002",
+			"text": "Je m'apelle Marc.",
+			"proposition_uuid": "955b0950-4dc6-11eb-ae93-0242ac130002"
+		}
+	]
+}
